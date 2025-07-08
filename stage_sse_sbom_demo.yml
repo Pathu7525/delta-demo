@@ -1,0 +1,14 @@
+---
+#
+# SBOM for Stage Environment created by automation from latest tags
+# Wed Jun 25 03:29:40 UTC 2025
+ptc: ""
+cnhe-pcc: ""
+etcd: 1.0.41.EFBB
+prometheus: 1.6.40.0FB4
+orchestrator: 1.1.132.D1A2
+datanode: 1.0.117.B8BC
+controlnode: 1.0.183.5C01
+pod-pilot: 1.1.65.E7EA
+pod-controller: 1.1.65.E7EA
+cnhe-go-ipsec-hub-manager: 1.1.65.E7EA
