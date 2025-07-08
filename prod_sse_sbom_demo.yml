@@ -1,0 +1,16 @@
+---
+#
+# SBOM for SSE PROD.
+# Should be updated before rolling new release.
+#
+brain: ""
+ptc: ""
+cnhe-pcc: ""
+etcd: 1.0.41.EFBB
+prometheus: 1.6.40.0FB4
+orchestrator: 1.1.125.F1CD
+datanode: 1.0.113.EECB
+controlnode: 1.0.179.70C0
+pod-pilot: 1.1.60.97B7
+pod-controller: 1.1.60.97B7
+cnhe-go-ipsec-hub-manager: 1.1.60.97B7
