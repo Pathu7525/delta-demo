@@ -1,13 +1,8 @@
----
-#
-# SBOM for SSE PREPROD.
-# Should be updated after rolling in stage.
-#
-brain: ""
-ptc: ""
-cnhe-pcc: ""
-etcd: 1.0.41.EFBB
-prometheus: 1.6.40.0FB4
+brain: 1.2.3
+ptc: ''
+cnhe-pcc: ''
+etcd: 2.0.0.TEST
+prometheus: 3.1.1.XYZ
 orchestrator: 1.1.132.D1A2
 datanode: 1.0.117.B8BC
 controlnode: 1.0.183.5C01
